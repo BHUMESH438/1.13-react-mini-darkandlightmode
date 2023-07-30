@@ -18,4 +18,5 @@
       settheme('dark-theme');
     } else settheme('light-theme');
   };```
-````
+```` 
+- #### also add the local storage saving the theme so that even after refresh the data will not be gone only after if the user tries to cahnge the bg theme
